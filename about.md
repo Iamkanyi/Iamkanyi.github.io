@@ -5,4 +5,5 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+We are an organization devoted to dog health, welfare and training. We ensure dogs live healthy, happy lives with responsible owners.
+
